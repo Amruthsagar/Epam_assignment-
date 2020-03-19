@@ -1,1 +1,1 @@
-# Epam_assignment-1
+# Epam_assignments
